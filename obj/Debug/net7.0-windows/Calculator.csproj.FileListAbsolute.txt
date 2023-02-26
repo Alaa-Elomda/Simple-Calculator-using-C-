@@ -1,0 +1,17 @@
+D:\c#\Lab\day11\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.exe
+D:\c#\Lab\day11\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.deps.json
+D:\c#\Lab\day11\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.runtimeconfig.json
+D:\c#\Lab\day11\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.dll
+D:\c#\Lab\day11\Calculator\Calculator\bin\Debug\net7.0-windows\Calculator.pdb
+D:\c#\Lab\day11\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.AssemblyReference.cache
+D:\c#\Lab\day11\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.GenerateResource.cache
+D:\c#\Lab\day11\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Lab\day11\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\c#\Lab\day11\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.AssemblyInfo.cs
+D:\c#\Lab\day11\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\c#\Lab\day11\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.dll
+D:\c#\Lab\day11\Calculator\Calculator\obj\Debug\net7.0-windows\refint\Calculator.dll
+D:\c#\Lab\day11\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.pdb
+D:\c#\Lab\day11\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.genruntimeconfig.cache
+D:\c#\Lab\day11\Calculator\Calculator\obj\Debug\net7.0-windows\ref\Calculator.dll
+D:\c#\Lab\day11\Calculator\Calculator\obj\Debug\net7.0-windows\Calculator.Calculator.resources
